@@ -2,166 +2,172 @@ const data = [
 	/**
 	 * periodical-publication
 	 */
-	{
-        "page": "periodical-publication",
+    {
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-0",
         "bullet": "01. Periodical Publications"
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-1",
         "bullet": "Board of Agriculture [London], Communications, vol I (2nd ed 1804, reprint of 1797). [Link]"
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-2",
         "bullet": "Repertory of Arts, Manufactures and Agriculture(London) Second Series, 17 vols of 19 (IV-XXII), 1806-1813. Also (p) extract of1814 pp 209-214 & plate 8 [Dearn on cottage building]."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-3",
         "bullet": "[p] Mechanics' Magazine, 3 April 1828; 11 March 1837; 25 November 1843; 14 June 1856"
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-4",
         "bullet": "Architectural Magazine (London), 4 vols of 5, 1834-1838. 'Conducted by J C Loudon' These volumes were formerly in the Royal Victorian Institute of Architects Library, and are doubtless those to which H D Annear referred, when he told the Institute in 1894 that only literary value attached to the magazine was in Ruskin's articles, under the nom-de-plume of Kata Phusin: ref Edquist, Harold Desbrowe-Annear, p 38."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-5",
         "bullet": "Charles Daclin, Table Générale Analytique et Raisonnée des Matières Contenues dans les Trente-Six Premières Années du Bulletin de la Societé d’Encouragement pour l’Industrie Nationale. Huzard, Paris 1838."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-6",
         "bullet": "Penny Magazine, New Series (London), vols I-V, 1841-1845."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-7",
         "bullet": "Surveyor, Engineer, and Architect (London), vol III, nos 25-35, February-December 1842."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-8",
         "bullet": "Practical Mechanic and Engineer's Magazine (Glasgow), vols I-IV, nos 1-24, and Second Series vols I-II, 1842-1847."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-9",
         "bullet": "Practical Mechanics Journal (Glasgow), vols I-II, April 1848 - March 1850.."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-10",
         "bullet": "Illustrated Exhibitor (London), complete 1851."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-11",
         "bullet": "Imperial Journal of Art, Science, Mechanics and Engineering (Manchester), vol I, nd, ?c1855."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-12",
         "bullet": "(f) Builder X (1852), 465 (3 January) - 516 (25 December). XI (1853), 528 (19 March) - 569 (31 December) [issues 517-527 not held] XII (1854), 570 (7 January) - 621 (30 December). XIII (1855), 622 (6 January) - 673 (29 December). XIV (1856), 674 (5 January) - 725 (27 December). XV (1857), 726 (3 January) - 777 (26 December). XVI (1858), 778 (2 January) - 829 (25 December). XVII (1859), 830 (1 January) - 882 (31 December). XVIII (1860), 883 (7 January) - 934 (29 December). XIX (1861), 935 (5 January) - 986 (28 December).. XX (1862), 987 (4 January) - 1038 (27 December). XXI (1863), 1039 (3 January) - 1090 (26 December). XXV (1867), 1248 (5 January) - 1299 (28 December). XXVI (1868), 1300 (4 January) - 1351 (26 December)."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-13",
         "bullet": "Illustrated London News: January-June 1855; July-December 1855; January-June 1856; July-December 1856; January-June 1857; July-December 1858"
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-14",
         "bullet": "Illustrated Builders’ Journal, vol 1, 7 June 1865 – 2 January 1866. The complete fun of this publication, of which there appears to be no public holding in the world."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-15",
         "bullet": "(p) Engineer [single sheet from the journal] 3 November 1865, p 81: ‘Sedley's Improvements In The Construction Of Bridges'"
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-16",
         "bullet": "Professional Papers on Indian Engineering (selected papers c 1864-7, vols I-VII, bound together as Royal Engineers, Professional Papers."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-17",
         "bullet": "Illustrated Builders' Journal, vol 1 (1865) [the only volume]"
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-18",
         "bullet": "Journal of Decorative Art, vol IV (1884). Disbound volume with many plates missing. Much useful material on relief wallpaper, including Lincrusta-Walton and Rottman Strome advertisements at the front; a fine coloured plate of Rottman, Strome & Co Japanese leather papers; and following article on pp 489-94; articles on Lincrusta-Walton, pp 471-7, and other illustrations, pp 506, 547, 591."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-19",
         "bullet": "(p) Bulding News, 20 April 1888, pp iii-xii, xix-xxviii. These are the advertisement pages normally missing from filletted library copies."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-20",
         "bullet": "[ef] Scientific American [Architects and Builders Edition], XIII, 1 January 1892."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-21",
         "bullet": "Pencil Points, vol VII, nos. 7-12 (July-December 1926)."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-22",
         "bullet": "Royal Institute of British Architects Journal (bound volume of extracts 1926-1937 from the library of Rhys E Hopkins)."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-23",
         "bullet": "Tuileries Brochures, vols I & II (1929-1930)."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-24",
         "bullet": "Moderne Bauformen, January 1930 [includes a rendering by Fritz Janeba]"
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-25",
         "bullet": "Architectural Record, LXXIV, 4 (October 1933) An issue devoted to the work of the architect Harrie T Lindeberg, and especially his proposals for celullar steel house construction."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-26",
         "bullet": "Trussed Concrete Review (London). nos 1-36 (1953-1959)."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-27",
         "bullet": "(p) Anitiquaries Journal, September 2001, extract: Anstee,' Lock from Lullingstone'."
     },
     {
-        "page": "periodical-publication",
+        "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-28",
+        "bullet": "This is test"
+    },
+    {
+        "page": "Periodical Publications",
+        "href": "https://www.mileslewis.net/01-periodical-publication#intro-29",
         "bullet": "See also:"
     },
     {
-        "page": "periodical-publication",
-        "href": "https://www.mileslewis.net/01-periodical-publication#intro-29",
+        "page": "Periodical Publications",
+        "href": "https://www.mileslewis.net/01-periodical-publication#intro-30",
         "bullet": "(sec 3) Scientific Australian ,1923. (sec 14) Illustrated London News, extracts, 1868. Commonwealth Engineer,1947-8 (sec 39) Building, 1919 (sec 40) The Salon, vol I, no 1 (1912). Australian Home Beautiful;  Australian House and Garden;  Cross-Section (sec 40, sec 45) Art in Australia, 1919, 1918. (sec 45) Australasian Ironmonger, 1 October 1896 (sec 46) Agricultural Gazette of New South Wales, XVI, XVII (sec 49). Melbourne University Magazine, 1915."
     },
     {
-        "page": "periodical-publication",
-        "href": "https://www.mileslewis.net/01-periodical-publication#intro-30",
+        "page": "Periodical Publications",
+        "href": "https://www.mileslewis.net/01-periodical-publication#intro-31",
         "bullet": ""
     },
     {
-        "page": "periodical-publication",
-        "href": "https://www.mileslewis.net/01-periodical-publication#intro-31",
+        "page": "Periodical Publications",
+        "href": "https://www.mileslewis.net/01-periodical-publication#intro-32",
         "bullet": "Go back to Miles Lewis Personal Library"
     },
+
 
 	/**
 	 * dictionaries-and-encyclopaedias-general
