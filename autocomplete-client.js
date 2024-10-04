@@ -3,6 +3,7 @@ const data = [
 	 * periodical-publication
 	 */
     
+   
     {
         "page": "Periodical Publications",
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-0",
@@ -168,6 +169,7 @@ const data = [
         "href": "https://www.mileslewis.net/01-periodical-publication#intro-32",
         "bullet": "Go back to Miles Lewis Personal Library"
     },
+
 
 
 
